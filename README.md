@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maxellmilay
+- 👋 Hi, I’m Maxell
 - 👀 I’m interested in instrumentation physics
 - 🌱 I’m currently learning physics and data science
 - 💞️ I’m looking to collaborate on ...
