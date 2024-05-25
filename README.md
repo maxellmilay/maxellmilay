@@ -13,11 +13,11 @@
 
 ###
 
-<p align="left">Proficient Languages</p>
+<p align="center">Proficient Languages</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -31,11 +31,11 @@
 
 ###
 
-<p align="left">Machine Learning Technologies</p>
+<p align="center">Machine Learning Technologies</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -53,11 +53,11 @@
 
 ###
 
-<p align="left">Web Frameworks & Technologies</p>
+<p align="center">Web Frameworks & Technologies</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
@@ -75,11 +75,11 @@
 
 ###
 
-<p align="left">Databases</p>
+<p align="center">Databases</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
@@ -95,11 +95,11 @@
 
 ###
 
-<h3 align="right">Connect with Me</h3>
+<h3 align="center">Connect with Me</h3>
 
 ###
 
-<div align="right">
+<div align="center">
   <a href="www.linkedin.com/in/maxellmilay" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
