@@ -2,7 +2,8 @@
 
 ###
 
-<p align="center">ML Engineer | Full Stack Developer</p>
+<h3 align="center">AI Engineer | Full Stack Developer</h3>
+<p align="center">Specializing in Machine Learning</p>
 
 ###
 
